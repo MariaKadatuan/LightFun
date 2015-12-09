@@ -1,0 +1,10 @@
+{
+    "name": "LightFun",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "LightFun.xml",
+    "author": "MariaKadatuan",
+    "minimum_firmware_version": 42
+}
